@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regular/puppeteer-log.git"
+  },
+  "keywords": [],
+  "author": "Jan Bölsche <jan@lagomorph.de> (https://regular.codes/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regular/puppeteer-log/issues"
+  },
+  "homepage": "https://github.com/regular/puppeteer-log#readme",
+  "dependencies": {
+    "pull-pushable": "^2.2.0",
+    "pull-stream": "^3.6.9"
+  }
+}
